@@ -13,13 +13,26 @@ Socket.io를 이용한 실시간 양방향 통신을 구현하기 위해 실시�
 
 
 ## 기능
-### 로그인
+
 ### 게임방 관리
+
 ### 그림 그리기
+
+### 쪽지(1:1 통신)
 
 
 ## UI/UX
-(사진 추후에 첨부)
+
+시작화면
+![mainImage](https://user-images.githubusercontent.com/55067985/221176350-bd874e6a-9321-472a-a57f-77135929c56d.PNG)
+
+로비화면
+![lobby](https://user-images.githubusercontent.com/55067985/221177203-080d0c59-95ea-41a0-af4a-aeb550b0729b.PNG)
+
+게임방
+![gameroom](https://user-images.githubusercontent.com/55067985/221177427-c896cafe-e324-41c2-8ffa-f6276cf259ec.PNG)
+
+게임시작
 
 ### 프로토콜
 
