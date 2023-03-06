@@ -41,3 +41,8 @@ Socket.io를 이용한 실시간 양방향 통신을 구현하기 위해 실시�
 |100|로그인|Clinet->Server->Client|
 |101|유저리스트 갱신|Server->Client|
 |103|쪽지함 메세지 송수신|Client->Server->Client|
+|203|게임방 만들기|Client->Server->Client|
+|202|게임방 입장|Client->Server->Client|
+|211|게임방 채팅|Client->Server->Client|
+|900|게임방나가기|Client->Server->Client|
+|999|로그아웃|Client->Server->Client|
